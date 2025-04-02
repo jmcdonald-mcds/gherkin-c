@@ -1,5 +1,5 @@
 PROJECT(gherkin C)
-cmake_minimum_required(VERSION 3.0)
+cmake_minimum_required(VERSION 3.5)
 
 option(BUILD_GHERKIN_TESTS "Build all of gherkin's own tests." OFF)
 option(BUILD_SHARED_LIBS "Build shared library." OFF)
